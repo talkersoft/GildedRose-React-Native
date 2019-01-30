@@ -6,6 +6,17 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
+#CREATE REACT APP
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+
+
+
 #Visual studio binaries
 *.dll
 *.dacpac
